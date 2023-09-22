@@ -31,11 +31,6 @@
 			<version>5.5.3</version>
 		</dependency>
 
-		<dependency>
-			<groupId>com.automation.testing</groupId>
-			<artifactId>GenericOrReusableMethodsInSelenium</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
 		<dependency>
 			<groupId>com.relevantcodes</groupId>
